@@ -14,7 +14,7 @@ I am constantly learning new technologies and techniques to improve my skills as
 
 ### ¡Hola! 👋
 
-Soy Erick, un apasionado desarrollador con experiencia en varias tecnologías web . Mis habilidades incluyen:
+Soy Erick, un apasionado desarrollador con experiencia en varias tecnologías web. Mis habilidades incluyen:
 
 - Desarrollo frontend con **HTML**, **CSS**, y **JavaScript**, con un enfoque especial en **React** 🌌.
 - Experiencia en el uso de **MongoDB** y **Express** para crear aplicaciones backend robustas 🍃.
