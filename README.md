@@ -2,7 +2,7 @@
 
 I am Erick, a passionate developer with experience in various web technologies. My skills include:
 
-- Frontend development with **HTML**, **CSS**, and **JavaScript**, with a special focus on **React** 🌌.
+- Frontend development with **HTML**, **CSS**, **JavaScript** and **Typescript**, with a special focus on **React** 🌌.
 - Experience using **MongoDB** and **Express** to create robust backend applications 🍃.
 - Solid knowledge of version control with **Git** and **Github** 🐙.
 - Development with **TailwindCSS** for quick implementation of styles 🌫.
@@ -17,7 +17,7 @@ I am constantly learning new technologies and techniques to improve my skills as
 
 Soy Erick, un apasionado desarrollador con experiencia en varias tecnologías web. Mis habilidades incluyen:
 
-- Desarrollo frontend con **HTML**, **CSS**, y **JavaScript**, con un enfoque especial en **React** 🌌.
+- Desarrollo frontend con **HTML**, **CSS**, **JavaScript** y **Typescript**, con un enfoque especial en **React** 🌌.
 - Experiencia en el uso de **MongoDB** y **Express** para crear aplicaciones backend robustas 🍃.
 - Conocimiento sólido de control de versiones con **Git** y **Github** 🐙.
 - Desarrollo con **TailwindCSS** para una implementación rápida de estilos 🌫.
